@@ -23,11 +23,20 @@
       "comparisons/druid-vs-sql-on-hadoop": {
         "title": "Apache Druid vs SQL-on-Hadoop"
       },
+      "configuration/human-readable-byte": {
+        "title": "Human-readable Byte Configuration Reference"
+      },
       "configuration/index": {
         "title": "Configuration reference"
       },
       "configuration/logging": {
         "title": "Logging"
+      },
+      "datamanagement/compaction": {
+        "title": "Data compaction"
+      },
+      "datamanagement/data-management": {
+        "title": "Data management"
       },
       "dependencies/deep-storage": {
         "title": "Deep storage"
@@ -552,6 +561,7 @@
       "Tutorials": "Tutorials",
       "Design": "Design",
       "Ingestion": "Ingestion",
+      "Data management": "Data management",
       "Querying": "Querying",
       "Configuration": "Configuration",
       "Operations": "Operations",

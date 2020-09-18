@@ -98,7 +98,7 @@ You can use DruidInputSource with the [Parallel task](../ingestion/native-batch.
 See [DruidInputSource](../ingestion/native-batch.md#druid-input-source) for more details.
 Or, if you use hadoop based ingestion, then you can use "dataSource" input spec to do reindexing.
 
-See the [Update existing data](../ingestion/data-management.md#update) section of the data management page for more details.
+See the [Update existing data](../datamanagement/data-management.md#update) section of the data management page for more details.
 
 ## How can I change the granularity of existing data in Druid?
 
@@ -108,7 +108,7 @@ To do this use the [DruidInputSource](../ingestion/native-batch.md#druid-input-s
 Typically the above will be run as a batch job to say everyday feed in a chunk of data and aggregate it.
 Or, if you use hadoop based ingestion, then you can use "dataSource" input spec to do reindexing.
 
-See the [Update existing data](../ingestion/data-management.md#update) section of the data management page for more details.
+See the [Update existing data](../datamanagement/data-management.md#update) section of the data management page for more details.
 
 ## Real-time ingestion seems to be stuck
 

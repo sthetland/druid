@@ -33,7 +33,6 @@
       "ingestion/index",
       "ingestion/data-formats",
       "ingestion/schema-design",
-      "ingestion/data-management",
       {
         "type": "subcategory",
         "label": "Stream ingestion",
@@ -55,6 +54,12 @@
       "ingestion/tasks",
       "ingestion/faq"
     ],
+    "Data management": [
+      "datamanagement/data-management",
+      "datamanagement/compaction",
+      "operations/segment-optimization",
+      "operations/rule-configuration"
+    ],   
     "Querying": [
       "querying/sql",
       "querying/querying",
@@ -117,7 +122,6 @@
       "operations/api-reference",
       "operations/high-availability",
       "operations/rolling-updates",
-      "operations/rule-configuration",
       "operations/metrics",
       "operations/alerts",
       "operations/other-hadoop",
@@ -136,7 +140,6 @@
           "operations/deep-storage-migration",
           "operations/export-metadata",
           "operations/metadata-migration",
-          "operations/segment-optimization",
           "operations/use_sbt_to_build_fat_jar"
         ]
       }

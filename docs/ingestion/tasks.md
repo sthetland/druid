@@ -394,4 +394,4 @@ Compaction tasks merge all segments of the given interval. See the documentation
 ### `kill`
 
 Kill tasks delete all metadata about certain segments and removes them from deep storage.
-See the documentation on [deleting data](../ingestion/data-management.md#delete) for details.
+See the documentation on [deleting data](../datamanagement/data-management.md#delete) for details.
